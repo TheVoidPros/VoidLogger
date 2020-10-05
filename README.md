@@ -14,7 +14,6 @@ $ npm install voidlogger
 const voidlogger = require('voidlogger');
 voidlogger.log(message, style);
 ```
-The possible styles for messages are
-log, warn, error, unauthorized, debug, cmd, ready
+The possible styles for messages are `log`, `warn`, `error`, `unauthorized`, `debug`, `cmd`, `ready`.
 ## Note
-This is **very new** and will have bugs, please put any new errors [here](https://github.com/TheVoidPros/VoidLogger/issues)!
+This is **very new** and may have bugs, please put any new errors [here](https://github.com/TheVoidPros/VoidLogger/issues)!
